@@ -1,0 +1,67 @@
+jay ho prabhu aapki
+jay shree ram
+cd ..
+pwd
+exit
+gcc -o trojan trojan.c
+exit
+cd ..
+pwd
+gcc trojan.c -o trojan
+exit
+./hello
+ps aux
+./hello &
+ps
+
+ps aux
+
+exit
+
+./server
+exit
+./server
+exit
+./server
+exit
+./server
+exit
+
+./server
+exit
+
+./server
+exit
+./server
+exit
+./server
+exit
+./server
+exit
+./server
+exit
+./server
+exit
+./server
+./server
+./server
+exit
+./server
+bdksacbkbckbkas
+exit
+exit
+fsa
+exit
+fsa
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+pwd
+exit
